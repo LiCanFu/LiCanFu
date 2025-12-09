@@ -44,11 +44,7 @@
 
 <h3 align="left">今年汇总 ⭐</h3>
 <p align="left">
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=LiCanFu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=FF6666,FF9966,FFFF66,66FF66,66FFFF,6666FF,FF66FF&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="git@github.com:LiCanFu/LiCanFu.git" />
-<brbrbrbr/>
-<img width=="800" src=="https://github-readme-activity-graph.vercel.app/graph?username=LiCanFu&&theme=github-compact&&hide_border=true&&area=true">
-<brbr/>
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=LiCanFu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </p>
 
 
