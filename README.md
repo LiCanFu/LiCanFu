@@ -43,9 +43,8 @@
 </p>
 
 <h3 align="left">今年汇总 ⭐</h3>
-<p align="left">
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=LiCanFu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-</p>
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=LiCanFu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+
 
 
 <p align="left">
