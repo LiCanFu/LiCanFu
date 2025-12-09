@@ -43,16 +43,17 @@
 </p>
 
 <h3 align="left">汇总 ⭐</h3>
-<!-- 图片标签：保留左对齐，但增加块级包裹 + 底部间距 -->
-<div style="margin-bottom: 16px; clear: both;">
-  <img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=LiCanFu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<!-- 用容器包裹图片+徽章，强制垂直排列 -->
+<div style="display: flex; flex-direction: column; gap: 12px;">
+  <!-- 图片单独一行 -->
+  <div>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=LiCanFu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  </div>
+  <!-- 徽章单独一行，左对齐 -->
+  <div style="display: flex; gap: 8px; align-items: center;">
+    <a href="https://github.com/LiCanFu" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-LiCanFu-blue?logo=github" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/QQ-3332377137-green?logo=tencentqq" alt="QQ" />
+  </div>
 </div>
-
-<!-- 徽章容器：清除浮动 + 左对齐 + 排版优化 -->
-<p align="left" style="clear: both; margin: 0; padding-top: 8px;">
-  <a href="https://github.com/LiCanFu" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-LiCanFu-blue?logo=github" alt="GitHub" />
-  </a>
-  &nbsp;<!-- 增加徽章间的间距，更美观 -->
-  <img src="https://img.shields.io/badge/QQ-3332377137-green?logo=tencentqq" alt="QQ" />
-</p>
