@@ -1,5 +1,3 @@
-<h1 align="center">你好，我是 LiCanFu ❄️</h1>
-
 <p align="center">
   🌹 热爱技术，专注全栈开发、AI 应用与实用开发工具。<br>
   <sub>Building reliable full-stack applications and useful AI-powered tools.</sub>
