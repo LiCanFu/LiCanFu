@@ -21,9 +21,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpython%2Cts%2Cjs%2Creact%2Cvue%2Cmysql%2Credis%2Cdocker%2Cgit%2Cgithub%2Clinux%2Cnginx%2Cmaven%2Cjenkins&amp;theme=dark&amp;perline=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpython%2Cts%2Cjs%2Creact%2Cvue%2Cmysql%2Credis%2Cdocker%2Cgit%2Cgithub%2Clinux%2Cnginx%2Cmaven%2Cjenkins&amp;theme=light&amp;perline=8">
-    <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cpython%2Cts%2Cjs%2Creact%2Cvue%2Cmysql%2Credis%2Cdocker%2Cgit%2Cgithub%2Clinux%2Cnginx%2Cmaven%2Cjenkins&amp;theme=light&amp;perline=8" alt="Java, Spring, Python, TypeScript, JavaScript, React, Vue, MySQL, Redis, Docker, Git, GitHub, Linux, Nginx, Maven and Jenkins">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpython%2Cfastapi%2Cts%2Cjs%2Cnodejs%2Cnpm%2Creact%2Cvue%2Cvite%2Cmysql%2Cpostgres%2Credis%2Crabbitmq%2Cdocker%2Cnginx%2Cmaven%2Cjenkins%2Cgitlab%2Cgithub%2Clinux%2Cpowershell%2Cidea%2Cpycharm%2Cwebstorm%2Cpostman%2Cfigma%2Cmd&amp;theme=dark&amp;perline=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpython%2Cfastapi%2Cts%2Cjs%2Cnodejs%2Cnpm%2Creact%2Cvue%2Cvite%2Cmysql%2Cpostgres%2Credis%2Crabbitmq%2Cdocker%2Cnginx%2Cmaven%2Cjenkins%2Cgitlab%2Cgithub%2Clinux%2Cpowershell%2Cidea%2Cpycharm%2Cwebstorm%2Cpostman%2Cfigma%2Cmd&amp;theme=light&amp;perline=10">
+    <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cpython%2Cfastapi%2Cts%2Cjs%2Cnodejs%2Cnpm%2Creact%2Cvue%2Cvite%2Cmysql%2Cpostgres%2Credis%2Crabbitmq%2Cdocker%2Cnginx%2Cmaven%2Cjenkins%2Cgitlab%2Cgithub%2Clinux%2Cpowershell%2Cidea%2Cpycharm%2Cwebstorm%2Cpostman%2Cfigma%2Cmd&amp;theme=light&amp;perline=10" alt="Java, Spring, Python, FastAPI, TypeScript, JavaScript, Node.js, npm, React, Vue, Vite, MySQL, PostgreSQL, Redis, RabbitMQ, Docker, Nginx, Maven, Jenkins, GitLab, GitHub, Linux, PowerShell, IntelliJ IDEA, PyCharm, WebStorm, Postman, Figma and Markdown">
   </picture>
 </p>
 
